@@ -1,0 +1,19 @@
+#Comments begin with #
+#the following format will be used
+#model make year horsepower capacity
+truck jeep 140 240 2400
+bus dodge 2007 500 40
+truck dodge 910 240 2400
+bus poop 2007 500 50
+truck jeep 10 240 2400
+bus poop 2007 500 50
+truck jeep 190 240 2400
+bus vw 2007 500 50
+truck jeep 10 240 2400
+bus ford 2007 500 50
+truck jeep 190 240 200
+bus poop 2007 500 50
+truck jeep 10 240 400
+bus poop 2007 500 50
+truck jeep 100 240 240
+bus vw 2007 500 50
